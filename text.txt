@@ -1,0 +1,4 @@
+(consumer_key=["dfjcHHdI6ixbKFu45OZQvwUcG"],
+                  consumer_secret=["a2rmK8eVpSL0vlo9YwoFfa7OG9lPLUIJP8OPoQtAskAFDliqV6"],
+                  access_token_key=["4514204717-J2Rnv6CKmslFl74NLSA50O2ivmwY3jS8EqHMorn"],
+                  access_token_secret=["tQwni93gUuGjW8lztIKYBOR3qCDPtHyocnmyvqEbWxyQw"])
