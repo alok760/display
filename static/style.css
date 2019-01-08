@@ -1,0 +1,89 @@
+
+      .tr{
+        opacity: 0.6;
+        color: black;
+      }
+
+      /* Let's get this party started */
+      ::-webkit-scrollbar {
+          width: 12px;
+
+      }
+
+      /* Track */
+      ::-webkit-scrollbar-track {
+          -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
+
+      }
+
+      /* Handle */
+      ::-webkit-scrollbar-thumb {
+
+          background: rgba(0,0,0,0.2);
+          -webkit-box-shadow: inset 0 0 6px rgba(255,255,255,0.2);
+      }
+      ::-webkit-scrollbar-thumb:window-inactive {
+      	background: rgba(255,255,255,0.5);
+
+      }
+    #particles-js {
+    	position: absolute;
+    	width: 100%;
+    	height: 100%;
+    	background-image: url("");
+    	background-repeat: no-repeat;
+    	background-size: cover;
+    	background-position: 50% 50%;
+    	background: #6819e8; /* Old browsers */
+    	background: -moz-linear-gradient(left, #6819e8 0%, #7437d0 35%, #615fde 68%, #6980f2 100%); /* FF3.6-15 */
+    	background: -webkit-linear-gradient(left, #6819e8 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* Chrome10-25,Safari5.1-6 */
+    	background: linear-gradient(to right, #6819e8 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6819e8', endColorstr='#6980f2',GradientType=1 ); /* IE6-9 */
+    }
+
+
+    .Textbox{
+
+  border: #solid 10px #000;
+  background-color: rgba(255,255,255,0.25);
+  margin-left: auto ;
+  margin-right: auto ;
+  color:white;
+  }
+
+      .Textbox:hover{
+
+    border: #solid 10px #000;
+    background-color: rgba(255,255,255,0.4);
+    font-weight: bold;
+    margin-left: auto ;
+    margin-right: auto ;
+    color:white;
+    }
+
+    .Textbox1{
+
+  border: #solid 10px #000;
+  background-color: rgba(255,255,255,0.1);
+  margin-left: auto ;
+  margin-right: auto ;
+  color:white;
+  }
+
+      .Textbox1:hover{
+
+    border: #solid 10px #000;
+    background-color: rgba(255,255,255,0.4);
+    font-weight: bold;
+    margin-left: auto ;
+    margin-right: auto ;
+    color:white;
+    }
+
+
+
+      @media (min-width: 800px) and (max-width: 850px) {
+              .navbar:not(.top-nav-collapse) {
+                  background: #1C2331!important;
+              }
+          }
